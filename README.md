@@ -24,7 +24,7 @@ Neste arquivo coloque o nome do parâmetro alterado e utilize a expressão `--` 
 
 Exemplo:
 
-`cassiano.santos\parametros.txt`
+`nome.sobrenome\parametros.txt`
 ```sql
 -- MV_GRVBLQ2: F
 MV_GRVBLQ2: T
@@ -37,7 +37,7 @@ Para fins de registro, utilize a query equivalente ao que foi feito no APSDU. E 
 
 Exemplo: 
 
-`cassiano.santos\DB\SA1.sql`
+`nome.sobrenome\DB\SA1.sql`
 ```sql
 -- ALTER TABLE SA1030 ALTER COLUMN A1_LOJA VARCHAR(2)
 ALTER TABLE SA1030 ALTER COLUMN A1_LOJA VARCHAR(3)
